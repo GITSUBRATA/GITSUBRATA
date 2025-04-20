@@ -1,25 +1,27 @@
-👋 Hi, I'm Subrata Das
-🎓 MCA student | Graduating in 2025 | Passionate about transforming raw data into powerful insights
+### 👋 Hi, I'm Subrata Das
 
-💡 Interests:
-Data Analytics | Cloud Technologies | Business Intelligence | Data Engineering | ETL Pipelines | Visualization Tools
+🎓 I’m an MCA student, graduating in **2025**, with a passion for turning data into meaningful insights.
 
-🛠️ Currently Learning & Building Skills In:
-📊 Power BI – Crafting interactive dashboards and insightful reports
-🐍 Python – Automating workflows and analyzing data efficiently
-🗃️ SQL – Querying and managing relational databases
-🧩 ETL Concepts – Extracting, transforming, and loading data for meaningful use
-☁️ Cloud Tools – Exploring scalable data solutions
+💡 **Interested in:**  
+Data Analytics | Cloud Technologies | Business Intelligence | Visualization Tools
 
-💼 Actively Seeking Opportunities As:
-🔍 Data Analyst
-📊 Power BI Developer
-📈 Business Intelligence Analyst
-🛠️ Junior Data Engineer (with a strong inclination towards ETL)
+🛠️ **Currently Learning:**  
+- 📊 Power BI for interactive dashboards and reports  
+- 🐍 Python for data analysis and automation  
+- 🗃️ SQL for querying and managing databases
 
-📫 Let’s Connect:
-📧 Email: subratasd4090@gmail.com / subrata771000@gmail.com
-🔗 LinkedIn: [https://www.linkedin.com/in/subrata-das-30b7262ba/]
-📈 GitHub Stats: (You can link your GitHub profile or GitHub Readme stats here)
+💼 **Actively seeking roles as:**  
+- Data Analyst  
+- Power BI Developer  
+- Business Intelligence Analyst  
 
-✨ “Driven by data, powered by curiosity — and inspired by the architecture behind it all.”
+📫 **Let’s connect:**  
+- 📧 Email: [subratasd4090@gmail.com](mailto:subratasd4090@gmail.com) / [subrata771000@gmail.com](mailto:subrata771000@gmail.com)  
+- 🔗 LinkedIn: *[https://www.linkedin.com/in/subrata-das-30b7262ba/]*  
+
+📈 **GitHub Stats:**  
+![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITSUBRATA&show_icons=true&theme=radical)
+
+---
+
+✨ *“Driven by data, powered by curiosity.”*  
