@@ -1,27 +1,56 @@
-### 👋 Hi, I'm Subrata Das
+# 👋 Hey there! I'm **Subrata Das**
 
-🎓 I’m an MCA student, graduating in **2025**, with a passion for turning data into meaningful insights.
-
-💡 **Interested in:**  
-Data Analytics | Cloud Technologies | Business Intelligence | Visualization Tools
-
-🛠️ **Currently Learning:**  
-- 📊 Power BI for interactive dashboards and reports  
-- 🐍 Python for data analysis and automation  
-- 🗃️ SQL for querying and managing databases
-
-💼 **Actively seeking roles as:**  
-- Data Analyst  
-- Power BI Developer  
-- Business Intelligence Analyst  
-
-📫 **Let’s connect:**  
-- 📧 Email: [subratasd4090@gmail.com](mailto:subratasd4090@gmail.com) / [subrata771000@gmail.com](mailto:subrata771000@gmail.com)  
-- 🔗 LinkedIn: *[https://www.linkedin.com/in/subrata-das-30b7262ba/]*  
-
-📈 **GitHub Stats:**  
-![Subrata's GitHub stats](https://github-readme-stats.vercel.app/api?username=GITSUBRATA&show_icons=true&theme=radical)
+🎓 **Final-year MCA student (Graduating 2025)**  
+🔍 **Aspiring Data Professional** with a deep passion for transforming raw data into **actionable insights** and building intelligent **data pipelines**
 
 ---
 
-✨ *“Driven by data, powered by curiosity.”*  
+## 💡 What Drives Me
+
+I’m a **data enthusiast** with a growing love for both **Data Analytics** and **Data Engineering**. I enjoy the thrill of uncovering insights, the art of **visual storytelling** through dashboards, and the behind-the-scenes magic of building robust **ETL pipelines** and scalable **cloud-based solutions**.
+
+---
+
+## 🧠 Interests
+
+- 📊 **Data Analytics**  
+- 📈 **Business Intelligence (BI)**  
+- 🛠️ **Data Engineering & ETL Pipelines**  
+- ☁️ **Cloud Technologies**  
+- 🎨 **Visualization Tools** (Power BI, Tableau)  
+- 🔐 **Database Design & Management**
+
+---
+
+## 🛠️ Skills I'm Building
+
+| **Tool / Tech**     | **What I'm Using it For**                                      |
+|---------------------|----------------------------------------------------------------|
+| **Power BI**        | Designing **interactive dashboards** & **data storytelling**   |
+| **Python**          | **Data analysis**, **automation** & **scripting**              |
+| **SQL**             | **Querying**, **data manipulation** & **database handling**    |
+| **ETL Concepts**    | Extracting, transforming & loading data **efficiently**        |
+| **Cloud Platforms** | Exploring **Azure** & **AWS** for **data scalability**         |
+
+---
+
+## 💼 Actively Seeking Roles As
+
+- 🔍 **Data Analyst**  
+- 📊 **Power BI Developer**  
+- 📈 **Business Intelligence Analyst**  
+- 🛠️ **Junior Data Engineer** *(with a strong focus on **ETL** and **cloud-based data solutions**)*
+
+---
+
+## 📫 Let’s Connect!
+
+📧 **Email**: subratasd4090@gmail.com / subrata771000@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/subrata-das-30b7262ba](https://www.linkedin.com/in/subrata-das-30b7262ba)  
+🐙 **GitHub**: [Add your GitHub link here]  
+📊 **GitHub Stats**: [You can embed your GitHub stats or use a badge from shields.io]
+
+---
+
+> ✨ *“Driven by data, powered by curiosity, and inspired by the architecture that makes it all possible.”*  
+> — *Let’s build something meaningful with data!*
