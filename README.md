@@ -47,8 +47,6 @@ I’m a **data enthusiast** with a growing love for both **Data Analytics** and 
 
 📧 **Email**: subratasd4090@gmail.com / subrata771000@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/subrata-das-30b7262ba](https://www.linkedin.com/in/subrata-das-30b7262ba)  
-🐙 **GitHub**: [Add your GitHub link here]  
-📊 **GitHub Stats**: [You can embed your GitHub stats or use a badge from shields.io]
 
 ---
 
