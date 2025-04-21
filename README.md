@@ -57,21 +57,23 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
 
 ## 🧰 Tools & Technologies I’ve Used
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
-  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-  <img src="https://img.icons8.com/officel/48/react.png" alt="ReactJS" />
-  
-</p>
+<div style="background-color:#f0f8ff; border: 2px solid #add8e6; border-radius: 12px; padding: 16px; margin-top: 20px;">
+  <h3 style="color: #0b3d91;">🧰 Tools & Technologies I’ve Used</h3>
+  <p align="left">
+    <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
+    <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+    <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+    <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
+    <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+    <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
+    <img src="https://img.icons8.com/officel/48/react.png" alt="ReactJS" />
+  </p>
+</div>
