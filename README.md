@@ -1,12 +1,12 @@
 <h1 align="center">👋 Hey there, I'm Subrata Das</h1>
 
 🎓 Final-year **MCA** Student (Graduating 2025)  
-🚀 Aspiring Data Professional | Data Analyst | Junior Data Engineer  
+   Aspiring Data Professional | Data Analyst | Junior Data Engineer  
 
 ---
 
 ### 💡 About Me
-I'm a curious and driven data enthusiast who’s passionate about transforming raw data into impactful insights and building intelligent data pipelines. Whether it’s the art of data storytelling or the behind-the-scenes magic of ETL workflows and cloud solutions, I love it all.
+I'm a curious and driven data enthusiast passionate about transforming raw data into impactful insights and building intelligent data pipelines. Whether it’s the art of data storytelling or the behind-the-scenes magic of ETL workflows and cloud solutions, I love it all.
 
 ---
 ---
@@ -17,14 +17,14 @@ I'm a curious and driven data enthusiast who’s passionate about transforming r
 
 ---
 
-### 📊 Most Used Languages
+###  Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITSUBRATA&layout=compact&theme=blue-green)
 
 ---
 
 
-### 🧠 Interests
+###  Interests
 - 📊 **Data Analytics** – uncovering trends and driving decisions with data  
 - 📈 **Business Intelligence** – visual storytelling through dashboards  
 - 🛠️ **Data Engineering & ETL** – efficient pipelines & data architecture  
