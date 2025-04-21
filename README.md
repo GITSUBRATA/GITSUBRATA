@@ -73,6 +73,5 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/officel/48/react.png" alt="ReactJS" />
-  <img src="https://img.icons8.com/color/48/fabric.png" alt="Microsoft Fabric" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-anaconda-a-distribution-of-the-python-and-r-programming-languages-for-scientific-logo-color-tal-revivo.png" alt="Anaconda" />
+  
 </p>
