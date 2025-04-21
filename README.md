@@ -76,9 +76,7 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
   <img src="https://img.icons8.com/officel/48/react.png" alt="ReactJS" />
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-jupyter-a-browser-based-interactive-computing-environment-logo-color-tal-revivo.png" alt="Jupyter Notebook" />
   <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" />
-  <img src="https://img.icons8.com/color/48/000000/adobe-logo.png" alt="Adobe" />
   <img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
 </p>
