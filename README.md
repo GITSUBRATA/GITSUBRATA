@@ -53,4 +53,25 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
 > ✨ *“Driven by data, powered by curiosity, and inspired by the architecture that makes it all possible.”*  
 > — *Let’s build something meaningful with data!*
 
-<p align="left"> <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" /> <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" /> <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" /> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" /> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" /> <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" /> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" /> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" /> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" /> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" /> </p>
+---
+
+## 🧰 Tools & Technologies I’ve Used
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
+  <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" alt="MySQL" />
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" />
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png" alt="SQL" />
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="SQL Server" />
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" />
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" />
+  <img src="https://img.icons8.com/fluency/48/asp.png" alt="ASP.NET" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-aspnet-core-a-free-and-open-source-web-framework-logo-color-tal-revivo.png" alt="ASP.NET Core MVC" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-razor-pages-a-web-framework-supported-by-microsoft-logo-color-tal-revivo.png" alt="ASP.NET Razor Pages" />
+</p>
