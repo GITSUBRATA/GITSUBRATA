@@ -9,6 +9,20 @@
 I'm a curious and driven data enthusiast who’s passionate about transforming raw data into impactful insights and building intelligent data pipelines. Whether it’s the art of data storytelling or the behind-the-scenes magic of ETL workflows and cloud solutions—I love it all.
 
 ---
+---
+
+### 📈 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/GITSUBRATA/count.svg)
+
+---
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GITSUBRATA&layout=compact&theme=blue-green)
+
+---
+
 
 ### 🧠 Interests
 - 📊 **Data Analytics** – uncovering trends and driving decisions with data  
