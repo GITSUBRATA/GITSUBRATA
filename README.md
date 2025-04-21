@@ -7,7 +7,7 @@
 
 ## 💡 What Drives Me
 
-I’m a **data enthusiast** with a growing love for both **Data Analytics** and **Data Engineering**. I enjoy the thrill of uncovering insights, the art of **visual storytelling** through dashboards, and the behind-the-scenes magic of building robust **ETL pipelines** and scalable **cloud-based solutions**.
+I’m a data enthusiast with a growing love for both Data Analytics and Data Engineering. I enjoy the thrill of uncovering insights, the art of visual storytelling through dashboards, and the behind-the-scenes magic of building robust ETL pipelines and scalable cloud-based solutions.
 
 ---
 
