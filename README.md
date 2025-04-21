@@ -57,8 +57,8 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
 
 ## 🧰 Tools & Technologies I’ve Used
 
-<div style="background-color:#f0f8ff; border: 2px solid #add8e6; border-radius: 12px; padding: 16px; margin-top: 20px;">
-  <h3 style="color: #0b3d91;">🧰 Tools & Technologies I’ve Used</h3>
+<div style="background: #f0faff; border: 2px solid #00bfff; border-radius: 16px; padding: 20px; margin-top: 20px; box-shadow: 0 4px 12px rgba(0, 191, 255, 0.2);">
+  <h3 style="color: #0077b6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">🧰 Tools & Technologies I’ve Used</h3>
   <p align="left">
     <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
     <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" />
