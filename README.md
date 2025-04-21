@@ -55,7 +55,7 @@ I’m a data enthusiast with a growing love for both Data Analytics and Data Eng
 
 ---
 
-## 🧰 Tools & Technologies I’ve Used
+
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" alt="Excel" />
