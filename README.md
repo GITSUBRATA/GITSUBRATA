@@ -4,20 +4,6 @@
 🚀 Aspiring Data Professional | Data Analyst | Junior Data Engineer
 
 ---
-<h1 align="center">Hi 👋, I'm Subrata Das</h1>
-<h3 align="center">A passionate Front-End Developer and Data Analyst</h3>
-
-<p align="center">
-  <img src="https://github.com/GITSUBRATA/GITSUBRATA/blob/main/assets/developer-illustration.png?raw=true" alt="coding illustration" width="400"/>
-</p>
-
-- 🔭 I’m currently working on **Social Media app for KIIT University**
-- 🌱 I’m currently learning **Next.js**
-- 🤝 I’m looking for help with **Web Development and Flutter**
-
-📫 How to reach me: [subratasd4090@gmail.com](mailto:subratasd4090@gmail.com)
-
-
 
 
 ### 💡 About Me
