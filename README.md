@@ -4,6 +4,7 @@
 🚀 Aspiring Data Professional | Data Analyst | Junior Data Engineer
 
 ---
+![GCD Explanation](media/gcd-animation.gif)
 
 ### 💡 About Me
 I'm a curious and driven data enthusiast who’s passionate about transforming raw data into impactful insights and building intelligent data pipelines. Whether it’s the art of data storytelling or the behind-the-scenes magic of ETL workflows and cloud solutions—I love it all.
