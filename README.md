@@ -5,7 +5,7 @@
 
 ---
 
-[▶️ Try the GCD animation](https://your-username.github.io/gcd-demo)
+
 
 
 ### 💡 About Me
